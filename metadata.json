@@ -1,0 +1,6 @@
+{
+  "name": "Akash B Portfolio",
+  "description": "Modern, premium personal developer portfolio website for Akash B, built with React, Vite, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
