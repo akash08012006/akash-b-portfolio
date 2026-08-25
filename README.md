@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Akash Portfolio
 
-# Run and deploy your AI Studio app
+Personal portfolio website built with React.js, Vite, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/0bbd26e2-470b-4e8a-a2fa-3cd55026e77b
+- React.js
+- Vite
+- Tailwind CSS
+- TypeScript
+- Motion (Framer Motion)
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```
+   npm install
+   ```
+2. Start the dev server:
+   ```
+   npm run dev
+   ```
+3. Open [http://localhost:3000](http://localhost:3000)
+
+## Build for Production
+
+```
+npm run build
+```
